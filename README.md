@@ -3,7 +3,7 @@ no-nonsense-calendars
 
 Neat, minimal calendar organizers to print (In English and Tamil). [http://ananthp.github.io/no-nonsense-calendars/](http://ananthp.github.io/no-nonsense-calendars/)
 
-![September 2014 Calendar](images/2014-09_sep--no-nonsense-calendar.png "September 2014, No Nonsense Calendar")
+![No-Nonsense Calendar](images/sample.png "No Nonsense Calendar")
 
 ## Notes
 
