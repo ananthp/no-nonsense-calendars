@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="oct.svg"
+   sodipodi:docname="10_oct.svg"
    inkscape:export-filename="/home/ananth/Documents/designs/calendar-apr2014-ananth.png"
    inkscape:export-xdpi="300.01077"
    inkscape:export-ydpi="300.01077">
@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2216191"
-     inkscape:cx="571.92973"
+     inkscape:cx="475.33661"
      inkscape:cy="368.5919"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
@@ -68,7 +68,7 @@
      inkscape:label="signature-github"
      id="layer7"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        transform="translate(-58,0.43790242)"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
@@ -139,7 +139,7 @@
      inkscape:label="Signature-googlebook"
      id="layer6"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        transform="translate(-58,0.43790242)"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
@@ -157,7 +157,7 @@
      inkscape:label="text-english"
      id="layer5"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text3173-2"

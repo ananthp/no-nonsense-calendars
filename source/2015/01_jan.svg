@@ -15,10 +15,11 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="jan.svg"
+   sodipodi:docname="01_jan.svg"
    inkscape:export-filename="/home/ananth/Documents/designs/calendar-apr2014-ananth.png"
    inkscape:export-xdpi="300.01077"
-   inkscape:export-ydpi="300.01077">
+   inkscape:export-ydpi="300.01077"
+   enable-background="new">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2216191"
-     inkscape:cx="526.18109"
-     inkscape:cy="273.81695"
+     inkscape:zoom="1.7276303"
+     inkscape:cx="513.00532"
+     inkscape:cy="541.0406"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer8"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
@@ -60,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -518,7 +519,7 @@
        style="color:#000000;fill:none;stroke:#616161;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 8;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="dates"
      id="layer2"
      inkscape:groupmode="layer"
@@ -865,4 +866,52 @@
          x="789.85852"
          y="646.17615">31</tspan></text>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="crop"
+     style="display:none">
+    <rect
+       style="opacity:0.57201646;fill:#d7f4ee;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3638"
+       width="291.70938"
+       height="411.25696"
+       x="454.21844"
+       y="9.8140707"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/tmp/front.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6290"
+       style="font-size:22.29333687px;font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#3e3e75;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:Fredericka the Great Italic"
+       transform="matrix(2.412759,0,0,2.412759,-727.85364,-125.44859)"><flowRegion
+         id="flowRegion6292"><rect
+           id="rect6294"
+           width="200.27432"
+           height="278.41605"
+           x="502.4223"
+           y="78.44281"
+           style="fill:#3e3e75;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+         id="flowPara6296"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#3e3e75;fill-opacity:1;font-family:Fredericka the Great;-inkscape-font-specification:Fredericka the Great Bold Italic">No-</flowPara><flowPara
+         id="flowPara6298"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#3e3e75;fill-opacity:1;font-family:Fredericka the Great;-inkscape-font-specification:Fredericka the Great Bold Italic">Nonsense</flowPara><flowPara
+         id="flowPara6300"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#3e3e75;fill-opacity:1;font-family:Fredericka the Great;-inkscape-font-specification:Fredericka the Great Bold Italic">Calendar</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6302"
+       style="font-size:22.29333687px;font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#3e3e75;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:Fredericka the Great Italic"
+       transform="matrix(5.4270461,0,0,5.4270461,-2208.5199,-820.8002)"><flowRegion
+         id="flowRegion6304"><rect
+           id="rect6306"
+           width="157.44109"
+           height="133.70917"
+           x="493.16107"
+           y="199.9966"
+           style="fill:#3e3e75;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6308"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#3e3e75;fill-opacity:1;font-family:Fredericka the Great;-inkscape-font-specification:Fredericka the Great Bold Italic">2015</flowPara></flowRoot>  </g>
 </svg>
