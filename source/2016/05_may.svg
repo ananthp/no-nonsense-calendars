@@ -20,13 +20,13 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2350582"
-     inkscape:cx="361.33905"
+     inkscape:cx="360.52937"
      inkscape:cy="585.27731"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer8"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
@@ -71,7 +71,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="text-tamil"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.29333687px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:3.48333383px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#575757;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
@@ -143,7 +143,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="text-english"
-     style="display:none">
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text3173-2"
@@ -706,14 +706,16 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="crop"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.99999993, 7.99999993;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3627"
        width="677.61322"
        height="381.68539"
        x="252.02725"
-       y="-34.202797" />
+       y="-34.202797"
+       inkscape:export-filename="/home/ananth/code/no-nonsense-calendars/images/sample.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
